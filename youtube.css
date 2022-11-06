@@ -10,6 +10,13 @@
     display: flex;
     float: left;
 }
+#searchInput{
+    border-radius: 25px;
+}
+#searchInput:focus{
+    outline-color: rgba(6, 6, 236, 0.564);
+
+}
 #nav_left>div img{
     width:150px;
 }
